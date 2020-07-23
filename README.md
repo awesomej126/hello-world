@@ -1,5 +1,4 @@
 # hello-world
 First repository
 
-
-That describes your changes.
+A bit about yourself
